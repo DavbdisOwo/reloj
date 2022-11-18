@@ -1,0 +1,61 @@
+#reloj{
+    width: 200px;
+    height: 30px;
+    padding: 10px 10px;
+    border: 1px solid yellow;
+    font: bold 1.5em dotum Verdana;
+    text-align: center;
+    float: right;
+    margin: 1em 3em 1em 1em;
+}
+
+*{
+    background-color: rgba(6, 71, 35, 0.544);
+}
+
+h1{
+    background-color: cornflowerblue;
+}
+
+h2{
+    background-color: rgba(255, 255, 0, 0.523);
+}
+
+h3{
+    color:rgba(23, 239, 117, 0.576);
+}
+
+#cabecera{
+    font: bold 1.3em Vedana;
+    font-weight: bold;
+    font-size: 1.3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    background-color: antiquewhite;
+}
+
+#menu{
+    float: left;
+    width: 25%;
+    background-color: rgba(165, 42, 42, 0.776);
+}
+
+#menu img{
+    width: 35%;
+    margin: 5%;
+    cursor:pointer;
+}
+
+#principal{
+    color: aliceblue;
+    float: left;
+    width: 75%;
+}
+
+#visor{
+    width: 60%;
+    margin: 10%;
+}
+
+#visor img{
+    width: 100%;
+}
